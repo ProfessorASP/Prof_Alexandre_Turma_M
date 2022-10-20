@@ -2,7 +2,7 @@
 ## Linguagem  utilizados:
 HTML
 CCSS
-Software 
+##SOFTWARE
 Sublime Text
 VS CODE https://code.visualstudio.com/download
 
