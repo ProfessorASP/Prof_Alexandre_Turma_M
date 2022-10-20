@@ -1,8 +1,8 @@
 # Prof_Alexandre_Turma_M
-## Linguagem  utilizados:
+## Linguagem  utilizado:
 HTML
-CCSS
-##SOFTWARE
+CSS
+##  Software
 Sublime Text
 VS CODE https://code.visualstudio.com/download
 
